@@ -12,8 +12,8 @@
 
 ## Dokumentasi
 
-- 📚 **[Lihat dokumentasi lengkap Library di Library.md](./Library.md)**
-- 📱 **[Lihat dokumentasi lengkap Aplikasi di Android.md](./Android.md)**
+- 📚 **[Lihat dokumentasi lengkap Library](./Library.md)**
+- 📱 **[Lihat dokumentasi lengkap Aplikasi ](./Android.md)**
 
 ---
 
