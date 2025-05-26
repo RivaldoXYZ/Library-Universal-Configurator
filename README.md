@@ -13,7 +13,7 @@
 ## Dokumentasi
 
 - 📚 **[Lihat dokumentasi lengkap Library](./Library.md)**
-- 📱 **[Lihat dokumentasi lengkap Aplikasi ](./Android.md)**
+- 📱 **[Lihat dokumentasi lengkap Aplikasi ](./Aplikasi.md)**
 
 ---
 
@@ -25,4 +25,4 @@
 
 ---
 
-> Untuk penjelasan dan petunjuk lebih lanjut, silakan buka file [Library.md](./Library.md) untuk dokumentasi library ESP32, serta [Android.md](./Android.md) untuk dokumentasi aplikasi mobile pada repository ini.
+> Untuk penjelasan dan petunjuk lebih lanjut, silakan buka file [Library.md](./Library.md) untuk dokumentasi library ESP32, serta [Android.md](./Aplikasi.md) untuk dokumentasi aplikasi mobile pada repository ini.
