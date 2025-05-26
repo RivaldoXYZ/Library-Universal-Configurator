@@ -134,9 +134,6 @@ void loop() {
 
 ## FAQ
 
-**Q: Apakah library ini hanya untuk ESP32?**  
-A: Ya, library ini dirancang khusus untuk ESP32 dengan BLE.
-
 **Q: Apakah harus menggunakan aplikasi khusus di HP?**  
 A: Bisa menggunakan aplikasi BLE scanner umum, tetapi lebih optimal dengan aplikasi Universal Configurator.
 
