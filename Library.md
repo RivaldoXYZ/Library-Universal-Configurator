@@ -1,6 +1,6 @@
 # Dokumentasi Fungsi Library Universal Configurator (UCFG)
 
-Library Universal Configurator (UCFG) adalah pustaka untuk ESP32 yang memudahkan pengaturan parameter perangkat secara dinamis melalui Bluetooth Low Energy (BLE) dan penyimpanan di Preferences. Berikut dokumentasi lengkap fungsi-fungsi utama dalam library ini beserta contoh penggunaannya.
+Library Universal Configurator (UCFG) adalah pustaka yang berguna untuk memudahkan pengaturan parameter perangkat secara dinamis melalui Bluetooth Low Energy (BLE) dan penyimpanan di Preferences. Berikut dokumentasi lengkap fungsi-fungsi utama dalam library ini beserta contoh penggunaannya.
 
 ---
 
@@ -199,7 +199,7 @@ void loop() {
 ## FAQ
 
 **Q: Apakah data akan hilang jika perangkat mati?**  
-A: Tidak. Data konfigurasi disimpan di Preferences (memori non-volatile) ESP32.
+A: Tidak. Data konfigurasi disimpan di Preferences (memori non-volatile).
 
 **Q: Bagaimana jika ingin menambah parameter baru?**  
 A: Cukup panggil `initConfig()` dengan nama dan nilai parameter baru di kode Anda.
